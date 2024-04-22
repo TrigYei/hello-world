@@ -55,11 +55,14 @@ Use `git status` to list all new or modified files that haven't yet been committ
 
 # Links
 You can build sites using [Github Pages](https://pages.github.com/).
+# Relative links
+
 
 # Images
 ![大凉山](https://github.com/TrigYei/hello-world/assets/166974946/73cb8743-cb66-4b75-b1df-bac043c72e04)
 
 # Specifying the theme an image is shown to
+
 
 # Referencing 
 
