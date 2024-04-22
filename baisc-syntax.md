@@ -70,4 +70,19 @@ You can build sites using [Github Pages](https://pages.github.com/).
 </picture>
 
 # Referencing 
+referencing Issues and Requests
+TrigYei/hello-world#1 🔸within conversations on Github
+
+# Using emojis
+⭐ <br>
+:shipit:
+
+# Footnotes
+Here is a footnotes[^1].
+[^1]: reference. <br>
+  prefix the second line with 2 spaces.
+
+
+
+
 
