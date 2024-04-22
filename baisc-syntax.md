@@ -55,14 +55,19 @@ Use `git status` to list all new or modified files that haven't yet been committ
 
 # Links
 You can build sites using [Github Pages](https://pages.github.com/).
-# Relative links
 
+# Relative links
+[readme](./README.md)
 
 # Images
 ![大凉山](https://github.com/TrigYei/hello-world/assets/166974946/73cb8743-cb66-4b75-b1df-bac043c72e04)
 
 # Specifying the theme an image is shown to
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 
 # Referencing 
 
