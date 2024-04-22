@@ -82,7 +82,30 @@ Here is a footnotes[^1].
 [^1]: reference. <br>
   prefix the second line with 2 spaces.
 
+# Table
+| Rank | Languages|
+|-----:|---------------|
+|     1|   Python      |
+|     2|   C    |
+|     3|       Java   |
 
+# Adding a comment
+```
+<!-- COMMENT -->
+
+```
+<!-- COMMENT -->
+
+# Adding a collapsed section
+<details open>
+  <summary>Languages to rank</summary>
+  
+| Rank | Languages|
+|-----:|----------|
+|     1|   Python      |
+|     2|   C    |
+|     3|       Java   |
+</details>
 
 
 
